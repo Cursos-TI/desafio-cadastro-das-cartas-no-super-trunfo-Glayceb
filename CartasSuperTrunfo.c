@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+char Estado 
+char Código da Carta
+char Nome da Cidade
+int Populacao
+float Área em KM²
+float PIB
+
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
